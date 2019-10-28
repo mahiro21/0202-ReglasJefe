@@ -20,9 +20,9 @@ package org.japo.java.main;
  * @author Mario Merlos Abella <mario.merlos.alum@iescamp.es>
  */
 public class Main {
-    
-    public static void main(String[] args){
-    System.out.printf("Artículo 1. El jefe tiene la razón.%n" + "Artículo 2. El jefe SIEMPRE tiene la razón. %n" +  "Artículo 3. En caso de duda se aplicará el artículo 2.");
-    
+
+    public static void main(String[] args) {
+        System.out.printf("Artículo 1. El jefe tiene la razón.%n" + "Artículo 2. El jefe SIEMPRE tiene la razón. %n" + "Artículo 3. En caso de duda se aplicará el artículo 2.");
+
     }
 }
